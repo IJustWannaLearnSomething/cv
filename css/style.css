@@ -1,3 +1,7 @@
+body{
+  background-color: #f8edeb;
+}
+
 hr{
   border-style: dotted none none;
   border-width: 5px;
