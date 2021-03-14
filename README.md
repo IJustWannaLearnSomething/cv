@@ -1,3 +1,3 @@
 # cv
 
-https://ijustwannalearnsomething.github.io/cv/ 
+https://ijustwannalearnsomething.github.io/cv/
